@@ -1,14 +1,10 @@
 ---
-author:
-  - name: Melissa Bourdages
-    url: 'https://plus.google.com/101511923753713644481'
-    avatar: {}
-related: []
-publisher:
-  url: 'http://www.melissabourdages.com'
-  name: Melissabourdages
-  favicon: 'http://www.melissabourdages.com/favicon.ico'
-  domain: www.melissabourdages.com
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://www.melissabourdages.com/p/about-me.html?m=1'
+inLanguage: en
+starred: false
 keywords:
   - fitness
   - stressed
@@ -21,17 +17,23 @@ keywords:
   - better
   - surgery
 description: 'Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. I was constantly tired, less happy and got sick frequently.'
-inLanguage: en
+datePublished: '2016-01-18T03:26:01.659Z'
+dateModified: '2016-01-18T03:12:30.079Z'
+author:
+  - name: Melissa Bourdages
+    url: 'https://plus.google.com/101511923753713644481'
+    avatar: {}
+related: []
 app_links: []
-isBasedOnUrl: 'http://www.melissabourdages.com/p/about-me.html?m=1'
 title: Melissa Bourdages
-datePublished: '2016-01-15T04:20:20.658Z'
-dateModified: '2016-01-15T04:19:55.701Z'
 sourcePath: _posts/2016-01-15-melissa-bourdages.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: Melissabourdages
+  domain: www.melissabourdages.com
+  url: 'http://www.melissabourdages.com'
+  favicon: 'http://www.melissabourdages.com/favicon.ico'
 _context: 'http://schema.org'
 _type: MediaObject
 
