@@ -1,6 +1,6 @@
 name: melissafitness
 favicon: null
-layout_spectrum: 0.24107
+layout_spectrum: 0.02372
 typography_spectrum: 0.50746
 collections:
   - index:
@@ -34,7 +34,7 @@ color:
     - '#F4EEA9'
     - '#F4F482'
   brandStrength: 0.3125
-  lightness: 0.7494949696119875
+  lightness: 0.5
   saturation: 0.1875
-  rhythmicContrast: 0.19020533002913
+  rhythmicContrast: 0.5
 purpose: []
