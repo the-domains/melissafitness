@@ -1,8 +1,7 @@
 ---
-inFeed: true
-hasPage: false
+inFeed: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.melissabourdages.com/p/about-me.html?m=1'
 inLanguage: en
 starred: true
 keywords:
@@ -17,15 +16,15 @@ keywords:
   - better
   - surgery
 description: 'Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. I was constantly tired, less happy and got sick frequently.'
-datePublished: '2016-01-20T02:40:59.444Z'
-dateModified: '2016-01-20T02:40:46.915Z'
+datePublished: '2016-01-20T02:43:31.398Z'
+dateModified: '2016-01-20T02:43:28.981Z'
 author:
   - name: Melissa Bourdages
     url: 'https://plus.google.com/101511923753713644481'
     avatar: {}
 related: []
 app_links: []
-title: My Story (H)
+title: My Story (P)
 sourcePath: _posts/2016-01-15-melissa-bourdages.md
 published: true
 authors: []
@@ -34,6 +33,7 @@ publisher:
   domain: www.melissabourdages.com
   url: 'http://www.melissabourdages.com'
   favicon: 'http://www.melissabourdages.com/favicon.ico'
+url: my-story-p/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
