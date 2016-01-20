@@ -16,7 +16,7 @@ keywords:
   - better
   - surgery
 description: 'Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. I was constantly tired, less happy and got sick frequently.'
-datePublished: '2016-01-20T02:43:31.398Z'
+datePublished: '2016-01-20T02:43:31.467Z'
 dateModified: '2016-01-20T02:43:28.981Z'
 author:
   - name: Melissa Bourdages
