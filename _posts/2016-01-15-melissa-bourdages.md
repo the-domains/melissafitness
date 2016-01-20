@@ -1,7 +1,7 @@
 ---
 inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: true
 keywords:
@@ -16,15 +16,15 @@ keywords:
   - better
   - surgery
 description: 'Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. I was constantly tired, less happy and got sick frequently.'
-datePublished: '2016-01-20T02:43:31.548Z'
-dateModified: '2016-01-20T02:43:28.981Z'
+datePublished: '2016-01-20T02:47:32.073Z'
+dateModified: '2016-01-20T02:47:28.411Z'
 author:
   - name: Melissa Bourdages
     url: 'https://plus.google.com/101511923753713644481'
     avatar: {}
 related: []
 app_links: []
-title: My Story (P)
+title: My Story (P/N)
 sourcePath: _posts/2016-01-15-melissa-bourdages.md
 published: true
 authors: []
@@ -38,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Kill it in 10 weeks</h1><p>Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. I was constantly tired, less happy and got sick frequently.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/362fbda256047d38b095339fcc9429b113740d8b.jpg" /></article>
+<article style=""><h1>Kill it in 10 weeks</h1><p>Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. I was constantly tired, less happy and got sick frequently.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbc9a8378ad4a13a6b49800b941a978e5e61f317.jpg" /></article>
