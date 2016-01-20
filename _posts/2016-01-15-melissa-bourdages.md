@@ -4,7 +4,7 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.melissabourdages.com/p/about-me.html?m=1'
 inLanguage: en
-starred: false
+starred: true
 keywords:
   - fitness
   - stressed
@@ -17,8 +17,8 @@ keywords:
   - better
   - surgery
 description: 'Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. I was constantly tired, less happy and got sick frequently.'
-datePublished: '2016-01-18T03:26:01.659Z'
-dateModified: '2016-01-18T03:12:30.079Z'
+datePublished: '2016-01-20T02:27:07.117Z'
+dateModified: '2016-01-20T02:26:54.887Z'
 author:
   - name: Melissa Bourdages
     url: 'https://plus.google.com/101511923753713644481'
