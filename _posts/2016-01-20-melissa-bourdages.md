@@ -17,7 +17,7 @@ keywords:
   - lunch
   - clean
 description: "There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss. They say weight loss is 30% fitness, 70% diet. When I say diet, I don't necessarily mean cutting back your food intake. And I definitely do not mean starving yourself."
-datePublished: '2016-01-29T04:32:23.612Z'
+datePublished: '2016-01-29T04:32:23.620Z'
 dateModified: '2016-01-29T04:32:21.072Z'
 author:
   - name: Melissa Bourdages
