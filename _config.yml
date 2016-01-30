@@ -14,7 +14,7 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: Site Title
+title: Melissa Bourdages Fitness
 cta:
   domain: null
   bucket: null
