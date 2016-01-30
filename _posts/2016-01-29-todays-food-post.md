@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:09:55.278Z'
-dateModified: '2016-01-30T04:09:53.136Z'
+datePublished: '2016-01-30T04:34:51.499Z'
+dateModified: '2016-01-30T04:34:47.991Z'
 title: Todays food post
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
@@ -22,7 +22,7 @@ url: todays-food-post/index.html
 _type: Article
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/30fde6fe406808afbd1b2cbef93d0a8fea01087f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/321b71b7ffa019897478a9b97bbd89c50ff7fb3f.jpg)
 
 I get a lot of questions about what I eat? How I've lost all the baby weight? What diet am I on?
 ----------------------------------------------
