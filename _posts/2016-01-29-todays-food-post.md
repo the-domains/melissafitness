@@ -1,13 +1,14 @@
 ---
 inFeed: true
-hasPage: true
-inNav: true
+hasPage: false
+inNav: false
+isBasedOnUrl: ''
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T04:38:38.655Z'
-dateModified: '2016-01-30T04:38:11.739Z'
+datePublished: '2016-01-30T06:51:41.829Z'
+dateModified: '2016-01-30T06:51:38.592Z'
 title: Todays food post
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
@@ -18,11 +19,10 @@ publisher:
   domain: null
   url: null
   favicon: null
-url: todays-food-post/index.html
-_type: Article
+_type: Blurb
 
 ---
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/321b71b7ffa019897478a9b97bbd89c50ff7fb3f.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8c1a04b33b80331f4b9fb5e197399b79d59e6236.jpg)
 
 I get a lot of questions about what I eat? How I've lost all the baby weight? What diet am I on?
 ----------------------------------------------
