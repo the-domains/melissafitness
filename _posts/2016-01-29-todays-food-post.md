@@ -6,23 +6,23 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-29T04:18:43.212Z'
-dateModified: '2016-01-29T04:18:14.008Z'
+datePublished: '2016-01-30T02:24:06.126Z'
+dateModified: '2016-01-30T02:24:03.507Z'
 title: Todays food post
 author: []
+sourcePath: _posts/2016-01-29-todays-food-post.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-29-todays-food-post.md
-published: true
 url: todays-food-post/index.html
 _type: Article
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/db0adc1b-d3af-47bc-a9c2-9ba55054d990.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/30fde6fe406808afbd1b2cbef93d0a8fea01087f.jpg)
 
 I get a lot of questions about what I eat? How I've lost all the baby weight? What diet am I on?
 ----------------------------------------------
