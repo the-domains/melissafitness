@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: null
 starred: false
 keywords: []
 description: Description
-datePublished: '2016-01-29T04:30:00.938Z'
-dateModified: '2016-01-29T04:29:58.382Z'
+datePublished: '2016-01-30T03:00:18.883Z'
+dateModified: '2016-01-30T03:00:14.421Z'
 title: 'Seared salmon salad with a balsamic & capers dressing. '
 author: []
 sourcePath: _posts/2016-01-29-seared-salmon-salad-with-a-balsamic-and-capers-dressing.md
