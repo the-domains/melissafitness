@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-30T02:24:06.126Z'
-dateModified: '2016-01-30T02:24:03.507Z'
+datePublished: '2016-01-30T04:09:55.278Z'
+dateModified: '2016-01-30T04:09:53.136Z'
 title: Todays food post
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
