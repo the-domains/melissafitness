@@ -1,8 +1,7 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'http://www.melissabourdages.com/2013/11/what-to-eat.html'
 inLanguage: en
 starred: false
 keywords:
@@ -17,8 +16,8 @@ keywords:
   - lunch
   - clean
 description: "There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss. They say weight loss is 30% fitness, 70% diet. When I say diet, I don't necessarily mean cutting back your food intake. And I definitely do not mean starving yourself."
-datePublished: '2016-01-29T04:34:18.542Z'
-dateModified: '2016-01-29T04:34:16.051Z'
+datePublished: '2016-01-30T06:50:15.043Z'
+dateModified: '2016-01-30T06:50:12.748Z'
 author:
   - name: Melissa Bourdages
     url: 'https://plus.google.com/101511923753713644481'
@@ -41,6 +40,7 @@ publisher:
   domain: www.melissabourdages.com
   url: 'http://www.melissabourdages.com'
   favicon: 'http://www.melissabourdages.com/favicon.ico'
+url: melissa-bourdages/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
@@ -48,5 +48,5 @@ _type: MediaObject
 There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss.
 
 They say weight loss is 30% fitness, 70% diet. When I say diet, I don't necessarily mean cutting back your food intake. And I definitely do not mean starving yourself. I simply mean the food that you eat.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/57c8a684aac83d069a7e2d5853b7d18b3fc254b7.jpg)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5494a9bd60d9426a1a76f89038520221528762cf.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ee83e6ab3b77edc7fd15ad414ab475fa1962471.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4cb377944a5848d623032414e7f2e342e1f0e59.jpg)
