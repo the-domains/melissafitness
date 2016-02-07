@@ -7,9 +7,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-30T06:51:41.829Z'
-dateModified: '2016-01-30T06:51:38.592Z'
-title: Todays food post
+datePublished: '2016-02-07T17:24:03.574Z'
+dateModified: '2016-02-07T17:24:00.412Z'
+title: Whats In The Fridge
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
 published: true
