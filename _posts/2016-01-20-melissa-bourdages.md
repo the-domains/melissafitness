@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,8 +16,8 @@ keywords:
   - lunch
   - clean
 description: "There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss. They say weight loss is 30% fitness, 70% diet. When I say diet, I don't necessarily mean cutting back your food intake. And I definitely do not mean starving yourself."
-datePublished: '2016-01-30T06:50:15.212Z'
-dateModified: '2016-01-30T06:50:12.748Z'
+datePublished: '2016-02-07T17:21:50.576Z'
+dateModified: '2016-02-07T17:21:44.511Z'
 author:
   - name: Melissa Bourdages
     url: 'https://plus.google.com/101511923753713644481'
@@ -31,7 +31,7 @@ related:
     thumbnail_url: 'http://static2.businessinsider.com/image/55b2a48c371d2277018b987c-1190-625/chipotle-has-unseated-subway-as-americas-healthy-fast-food-of-choice.jpg'
     thumbnail_width: 1190
 app_links: []
-title: Melissa Bourdages
+title: What Do I Eat?
 sourcePath: _posts/2016-01-20-melissa-bourdages.md
 published: true
 authors: []
