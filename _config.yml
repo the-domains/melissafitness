@@ -1,6 +1,6 @@
 name: 'Melissa Bourdages '
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.44621
 collections:
   - index:
@@ -34,8 +34,8 @@ color:
     - '#01072b'
     - '#009f99'
     - '#00566d'
-  brandStrength: 0.1875
+  brandStrength: 0
   lightness: 0.375
-  saturation: 0.1875
-  rhythmicContrast: 1
+  saturation: 0.25
+  rhythmicContrast: 0.75
 purpose: []
