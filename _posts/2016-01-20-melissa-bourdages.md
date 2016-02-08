@@ -1,7 +1,7 @@
 ---
 inFeed: true
 hasPage: true
-inNav: true
+inNav: false
 inLanguage: en
 starred: false
 keywords:
@@ -15,9 +15,9 @@ keywords:
   - vegetables
   - lunch
   - clean
-description: "There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss. They say weight loss is 30% fitness, 70% diet. When I say diet, I don't necessarily mean cutting back your food intake. And I definitely do not mean starving yourself."
-datePublished: '2016-02-08T03:33:59.370Z'
-dateModified: '2016-02-08T03:33:56.692Z'
+description: ''
+datePublished: '2016-02-08T04:18:05.401Z'
+dateModified: '2016-02-08T04:18:02.679Z'
 author:
   - name: Melissa Bourdages
     url: 'https://plus.google.com/101511923753713644481'
@@ -31,7 +31,7 @@ related:
     thumbnail_url: 'http://static2.businessinsider.com/image/55b2a48c371d2277018b987c-1190-625/chipotle-has-unseated-subway-as-americas-healthy-fast-food-of-choice.jpg'
     thumbnail_width: 1190
 app_links: []
-title: What Do I Eat?
+title: 'Portioning '
 sourcePath: _posts/2016-01-20-melissa-bourdages.md
 published: true
 authors: []
@@ -46,7 +46,7 @@ _type: MediaObject
 
 ---
 There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5da26d604f79936a2c85f0d07f66d7e155126df.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e76c8777aa8663f16a998124f3024b07d5f0d840.jpg)
 
 They say weight loss is 30% fitness, 70% diet. When I say diet, I don't necessarily mean cutting back your food intake. And I definitely do not mean starving yourself. I simply mean the food that you eat.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cf52251a9124460cdec918b2bd04942e8e704f8.jpg)
