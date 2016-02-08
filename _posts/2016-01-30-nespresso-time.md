@@ -1,27 +1,27 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: Picture URL
 inLanguage: null
 starred: false
 keywords: []
-description: 'Ok guys...I want to know...how do you take your coffee?? I take mine black! Or I make a straight latte...nothing added!'
-datePublished: '2016-01-30T02:14:09.102Z'
-dateModified: '2016-01-30T02:13:21.155Z'
+description: ''
+datePublished: '2016-02-08T02:16:51.158Z'
+dateModified: '2016-02-08T02:16:48.993Z'
 title: Nespresso Time
 author: []
+sourcePath: _posts/2016-01-30-nespresso-time.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-30-nespresso-time.md
-published: true
-url: nespresso-time/index.html
-_type: Article
+_type: MediaObject
 
 ---
-![Picture Caption](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f3a505ca-a2ae-43d8-889b-b4a134bcea29.jpg)
+![Picture Caption](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ed6ceac756ab15c5fc88aad34ce447882764a50b.jpg)
 
 The Draft Page Description
