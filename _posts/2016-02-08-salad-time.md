@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T03:23:38.294Z'
-dateModified: '2016-02-08T03:23:35.056Z'
+datePublished: '2016-02-08T04:14:51.138Z'
+dateModified: '2016-02-08T04:14:48.878Z'
 title: 'Salad, Beets & Bean'
 author: []
 sourcePath: _posts/2016-02-08-salad-time.md
@@ -23,4 +23,4 @@ _type: Article
 
 ---
 From Power Greens in my morning superfood smoothie to a bowl full of greens with my dinner...I'm loading up 💪🏻 The kitchen is where it happens everyone!!! Weight loss, gains...FOOD IS FUEL!!!! Not sure what to eat or how much to eat...ask me...and I can share with you my meal plan and those cute little containers y'all see me post!
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5db646f45825b5ade64368a04ce35bcc5dcf696a.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/21104e0565926741a6b5514f41516b6986805af8.jpg)
