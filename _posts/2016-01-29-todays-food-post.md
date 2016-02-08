@@ -1,15 +1,14 @@
 ---
 inFeed: true
-hasPage: false
+hasPage: true
 inNav: false
-isBasedOnUrl: 'https://thegrid.ai/melissafitness/'
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-08T03:47:56.265Z'
-dateModified: '2016-02-08T03:46:39.348Z'
-title: Whats In The Fridge
+datePublished: '2016-02-08T04:16:13.375Z'
+dateModified: '2016-02-08T04:16:11.605Z'
+title: How many tubs?
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
 published: true
@@ -19,7 +18,8 @@ publisher:
   domain: null
   url: null
   favicon: null
-_type: MediaObject
+url: how-many-tubs/index.html
+_type: Article
 
 ---
 I get a lot of questions about what I eat? How I've lost all the baby weight? What diet am I on?
