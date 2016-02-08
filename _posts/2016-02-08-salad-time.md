@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: "From Power Greens in my morning superfood smoothie to a bowl full of greens with my dinner...I'm loading up \uD83D\uDCAA\uD83C\uDFFB The kitchen is where it happens everyone!!! Weight loss, gains...FOOD IS FUEL!!!! Not sure what to eat or how much to eat...ask me...and I can share with you my meal plan and those cute little containers y'all see me post!"
-datePublished: '2016-02-08T01:36:37.585Z'
-dateModified: '2016-02-08T01:35:44.487Z'
+datePublished: '2016-02-08T02:11:59.742Z'
+dateModified: '2016-02-08T02:00:39.414Z'
 title: Salad Time
 author: []
+sourcePath: _posts/2016-02-08-salad-time.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-08-salad-time.md
-published: true
 url: salad-time/index.html
 _type: Article
 
