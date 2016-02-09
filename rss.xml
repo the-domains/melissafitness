@@ -4,8 +4,15 @@
         <description><![CDATA[Melissa Bourdages Fitness]]></description>
         <link>https://thegrid.ai/melissafitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 04:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 04:34:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melissafitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Become a Coach]]></title>
+            <description><![CDATA[<article><h1>Become a Coach</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c0915e7e2cac779c3f039b65f113fe5aabffb0ec.jpg"></article>]]></description>
+            <link>https://thegrid.ai/melissafitness/how-many-tubs/index.html</link>
+            <guid isPermaLink="false">2e545861-0c93-440e-b18c-24c40fcc75b2</guid>
+            <pubDate>Tue, 09 Feb 2016 04:33:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Fitness Programs ]]></title>
             <description><![CDATA[<article><h1>Fitness Programs </h1><p>Fitness Programs </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a6c68037f585ab341513e4c7920ab1cff4f85f4.jpg"></article>]]></description>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Blog]]></title>
-            <description><![CDATA[<article><h1>Blog</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7ea9ef55-f4e2-4691-9453-76ec94e0ce9d.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Blog</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3927bb4437642e88acdb6917b6a3ec7b0d06c9ee.jpg"></article>]]></description>
             <link>https://thegrid.ai/melissafitness/blog/index.html</link>
             <guid isPermaLink="false">b92f9e4d-81a7-4906-b008-2014fd594429</guid>
             <pubDate>Tue, 09 Feb 2016 04:24:55 GMT</pubDate>
@@ -69,13 +76,6 @@ Ever since I was little I was very active. I played competitive sports and loved
             <link>https://thegrid.ai/melissafitness/melissa-bourdages/index.html</link>
             <guid isPermaLink="false">8eb0afe9-26ab-49c8-acce-77d4da51cd90</guid>
             <pubDate>Mon, 08 Feb 2016 04:18:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Spinach Salad with Quinoa, Chickpeas, & Paprika Dressing]]></title>
-            <description><![CDATA[<article><h1>Spinach Salad with Quinoa, Chickpeas, & Paprika Dressing</h1><p>Who has a hard time getting all their greens?? We definitely do...so are going to be trying this salad. Even with the dressing the salad doesn't get soggy so you can prep ahead!! And cost per serving is under $2! Who says eating clean is expensive? ------------------------------------------------</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/89cc1fd1a5d3a57c13641ab820b0f10753685b6b.jpg"></article>]]></description>
-            <link>https://thegrid.ai/melissafitness/spinach-salad-with-quinoa-chickpeas-and-paprika-dressing/index.html</link>
-            <guid isPermaLink="false">932251af-307a-493d-881e-dc5a7f5e9c3d</guid>
-            <pubDate>Tue, 19 Jan 2016 04:47:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
