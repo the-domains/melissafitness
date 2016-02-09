@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T04:21:45.792Z'
-dateModified: '2016-02-09T04:21:43.162Z'
+datePublished: '2016-02-09T04:34:10.432Z'
+dateModified: '2016-02-09T04:34:08.356Z'
 title: 'Fitness Programs '
 author: []
 sourcePath: _posts/2016-02-09-fitness-programs.md
@@ -22,4 +22,4 @@ url: fitness-programs/index.html
 _type: Article
 
 ---
-Fitness Programs ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e649703-5b28-4ffe-a9fa-e53fcfb63fd5.jpg)
+Fitness Programs ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a6c68037f585ab341513e4c7920ab1cff4f85f4.jpg)
