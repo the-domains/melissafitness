@@ -1,5 +1,8 @@
+name: 'Melissa Bourdages '
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.40525
 title: Melissa Bourdages Fitness
-purpose: []
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: UA-72563501-1
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5625
-  brandStrength: 0.0625
-  rhythmicContrast: 0
   brandColors:
     - '#dee2e1'
     - '#5c6e6e'
     - '#354646'
     - '#34979c'
     - '#7fd0bb'
+  brandStrength: 0.0625
   lightness: 0.875
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: UA-72563501-1
-  facebook: null
-name: 'Melissa Bourdages '
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.40169
-layout_spectrum: 1
+  saturation: 0.5625
+  rhythmicContrast: 0
+purpose: []
