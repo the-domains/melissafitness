@@ -4,11 +4,18 @@
         <description><![CDATA[Melissa Bourdages Fitness]]></description>
         <link>https://thegrid.ai/melissafitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 04:03:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 04:09:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melissafitness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<article><h1>Blog</h1><p>10 Weeks</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfc67d3a883008ffd060056a16ba7ba3528defd4.jpg"></article>]]></description>
+            <link>https://thegrid.ai/melissafitness/blog/index.html</link>
+            <guid isPermaLink="false">b92f9e4d-81a7-4906-b008-2014fd594429</guid>
+            <pubDate>Tue, 09 Feb 2016 04:07:31 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Nespresso Time]]></title>
-            <description><![CDATA[<article><h1>Nespresso Time</h1><p>Click for free meal plan </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/37270f2f2b1e4af4f8cf3afbb148b63ecf811029.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Nespresso Time</h1><p>Click for free meal plan </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/018c9666ef7fc0b41196b5dc6245bc4815ab0660.jpg"></article>]]></description>
             <link>https://thegrid.ai/melissafitness/nespresso-time/index.html</link>
             <guid isPermaLink="false">899645f8-e380-45aa-a887-8d578eacfb67</guid>
             <pubDate>Tue, 09 Feb 2016 04:02:25 GMT</pubDate>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/melissafitness/summit-2014-vegas/index.html</link>
             <guid isPermaLink="false">8ea9ee84-b9b9-4482-a11f-3a8fe939bb5b</guid>
             <pubDate>Mon, 08 Feb 2016 04:13:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[10 Weeks]]></title>
-            <description><![CDATA[<article><h1>10 Weeks</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bfc67d3a883008ffd060056a16ba7ba3528defd4.jpg"></article>]]></description>
-            <link>http://www.melissabourdages.com/p/about-me.html?m=1</link>
-            <guid isPermaLink="false">b92f9e4d-81a7-4906-b008-2014fd594429</guid>
-            <pubDate>Mon, 08 Feb 2016 04:05:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Join the chalange]]></title>
