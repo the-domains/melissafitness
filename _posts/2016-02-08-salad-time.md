@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-02-09T04:03:38.096Z'
-dateModified: '2016-02-09T03:49:24.766Z'
+datePublished: '2016-02-10T02:35:59.380Z'
+dateModified: '2016-02-10T02:35:58.527Z'
 title: 'Salad, Beets & Bean'
 author: []
 sourcePath: _posts/2016-02-08-salad-time.md
