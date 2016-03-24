@@ -1,6 +1,6 @@
 name: 'Melissa Bourdages '
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0
 typography_spectrum: 0.78519
 title: Melissa Bourdages Fitness
 collections:
@@ -35,7 +35,7 @@ color:
     - '#34979c'
     - '#7fd0bb'
   brandStrength: 0
-  lightness: 0.5
+  lightness: 0.3125
   saturation: 0.1875
-  rhythmicContrast: 1
+  rhythmicContrast: 0
 purpose: []
