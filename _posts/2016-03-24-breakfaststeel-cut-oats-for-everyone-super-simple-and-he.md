@@ -18,18 +18,18 @@ description: >-
 
 
   Charlie has an awesome appetite!! #babyfood #babyfoodideas
-datePublished: '2016-03-24T02:37:13.752Z'
-dateModified: '2016-03-24T02:36:45.093Z'
-title: ''
+datePublished: '2016-03-24T02:44:21.327Z'
+dateModified: '2016-03-24T02:43:55.332Z'
+title: 'Breakfast...steel cut oats for everyone. '
 author: []
+sourcePath: _posts/2016-03-24-breakfaststeel-cut-oats-for-everyone-super-simple-and-he.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-24-breakfaststeel-cut-oats-for-everyone-super-simple-and-he.md
-published: true
 url: breakfaststeel-cut-oats-for-everyone-super-simple-and-he/index.html
 _type: Article
 
