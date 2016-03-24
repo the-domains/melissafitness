@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: en
@@ -15,9 +15,9 @@ keywords:
   - vegetables
   - lunch
   - clean
-description: ''
-datePublished: '2016-02-10T02:37:25.011Z'
-dateModified: '2016-02-10T02:37:22.564Z'
+description: 'There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss.'
+datePublished: '2016-03-24T02:58:24.749Z'
+dateModified: '2016-03-24T02:33:51.001Z'
 author:
   - name: Melissa Bourdages
     url: 'https://plus.google.com/101511923753713644481'
@@ -46,7 +46,7 @@ _type: MediaObject
 
 ---
 There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e76c8777aa8663f16a998124f3024b07d5f0d840.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e527e3748cc8feaf0a71db67bed6675ad88c406.jpg)
 
 They say weight loss is 30% fitness, 70% diet. When I say diet, I don't necessarily mean cutting back your food intake. And I definitely do not mean starving yourself. I simply mean the food that you eat.
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9cf52251a9124460cdec918b2bd04942e8e704f8.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/75010086f112804b9ee2545ddfa938d6d0c943c8.jpg)
