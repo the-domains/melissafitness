@@ -4,8 +4,15 @@
         <description><![CDATA[Melissa Bourdages Fitness]]></description>
         <link>https://thegrid.ai/melissafitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 03:59:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 04:01:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melissafitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Events]]></title>
+            <description><![CDATA[<article><h1>Events</h1><p>Summit 2014 was AMAZING! I had the opportunity to learn from so many successful people about their stories, how they built their business, the lives they helped changed and I was completely inspired and blown away.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4bdae93f5cf6a99d8c93a0eddc815b00bbef47e3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/melissafitness/summit-2014-vegas/index.html</link>
+            <guid isPermaLink="false">8ea9ee84-b9b9-4482-a11f-3a8fe939bb5b</guid>
+            <pubDate>Thu, 24 Mar 2016 04:01:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Blog]]></title>
             <description><![CDATA[<article><h1>Blog</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b2ae572de8d7361b46efb20125e04ff7c550d8d.jpg"></article>]]></description>
@@ -73,13 +80,6 @@ Charlie has an awesome appetite!! #babyfood #babyfoodideas</p><img src="https://
             <link>https://thegrid.ai/melissafitness/breakfaststeel-cut-oats-for-everyone-super-simple-and-he/index.html</link>
             <guid isPermaLink="false">e64fa1ff-1b66-4a1a-abb4-b93e35a27148</guid>
             <pubDate>Thu, 24 Mar 2016 02:44:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/aab84c0c-aa61-4477-83a6-5b8d730b7ea6.jpg">]]></description>
-            <link>https://thegrid.ai/melissafitness/716c7cdc-6093-4420-8aef-58846b8ec5ba/index.html</link>
-            <guid isPermaLink="false">716c7cdc-6093-4420-8aef-58846b8ec5ba</guid>
-            <pubDate>Thu, 24 Mar 2016 02:05:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
