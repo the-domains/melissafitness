@@ -1,13 +1,15 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-10T02:51:34.187Z'
-dateModified: '2016-02-10T02:51:31.274Z'
+description: |-
+  THEN, 5 WEEKS LATER
+  YOU'RE READY FOR THE BETA CYCLE:
+datePublished: '2016-03-24T03:58:16.884Z'
+dateModified: '2016-03-24T02:59:17.278Z'
 title: 'Fitness Programs '
 author: []
 sourcePath: _posts/2016-02-09-fitness-programs.md
@@ -19,7 +21,7 @@ publisher:
   url: null
   favicon: null
 url: fitness-programs/index.html
-_type: Article
+_type: MediaObject
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f31ee5005649d8fbbafa23e8d778be080d7b093.jpg)
