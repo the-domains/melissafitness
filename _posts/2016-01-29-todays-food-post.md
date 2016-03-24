@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-02-09T04:33:29.151Z'
-dateModified: '2016-02-09T04:33:26.668Z'
+datePublished: '2016-03-24T03:08:54.528Z'
+dateModified: '2016-03-24T02:53:10.233Z'
 title: Become a Coach
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
@@ -23,4 +23,6 @@ _type: Article
 
 ---
 Become a Coach
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/6a6885ad-3ac4-4b36-9b1f-ab79e0b6e10e.JPG)
+
+CLICK HERE
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/de58bab91cba1ab04d486bf02ad09f726f8ecf54.jpg)
