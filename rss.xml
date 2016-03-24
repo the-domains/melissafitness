@@ -4,8 +4,15 @@
         <description><![CDATA[Melissa Bourdages Fitness]]></description>
         <link>https://thegrid.ai/melissafitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 24 Mar 2016 03:46:36 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2016 03:49:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melissafitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Blog]]></title>
+            <description><![CDATA[<article><h1>Blog</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4b2ae572de8d7361b46efb20125e04ff7c550d8d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/melissafitness/blog/index.html</link>
+            <guid isPermaLink="false">b92f9e4d-81a7-4906-b008-2014fd594429</guid>
+            <pubDate>Thu, 24 Mar 2016 03:49:07 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[My Story]]></title>
             <description><![CDATA[<article><h1>My Story</h1><p>My Story
@@ -73,13 +80,6 @@ Charlie has an awesome appetite!! #babyfood #babyfoodideas</p><img src="https://
             <link>https://thegrid.ai/melissafitness/716c7cdc-6093-4420-8aef-58846b8ec5ba/index.html</link>
             <guid isPermaLink="false">716c7cdc-6093-4420-8aef-58846b8ec5ba</guid>
             <pubDate>Thu, 24 Mar 2016 02:05:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ce8bbf1-7209-480f-a721-13433fb0c919.jpg">]]></description>
-            <link>https://thegrid.ai/melissafitness/ba097db0-5c56-43a7-aa48-5de8798ca5e3/index.html</link>
-            <guid isPermaLink="false">ba097db0-5c56-43a7-aa48-5de8798ca5e3</guid>
-            <pubDate>Thu, 24 Mar 2016 01:57:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
