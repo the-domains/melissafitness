@@ -1,15 +1,15 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: |-
   THEN, 5 WEEKS LATER
   YOU'RE READY FOR THE BETA CYCLE:
-datePublished: '2016-03-24T03:58:16.884Z'
-dateModified: '2016-03-24T02:59:17.278Z'
+datePublished: '2016-03-25T03:25:22.592Z'
+dateModified: '2016-03-25T03:25:02.577Z'
 title: 'Fitness Programs '
 author: []
 sourcePath: _posts/2016-02-09-fitness-programs.md
@@ -21,7 +21,7 @@ publisher:
   url: null
   favicon: null
 url: fitness-programs/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f31ee5005649d8fbbafa23e8d778be080d7b093.jpg)
