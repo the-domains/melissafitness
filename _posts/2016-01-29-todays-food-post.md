@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-03-25T03:54:39.095Z'
-dateModified: '2016-03-25T02:37:04.884Z'
+datePublished: '2016-03-25T03:59:01.598Z'
+dateModified: '2016-03-25T03:54:46.599Z'
 title: Become a Coach
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
