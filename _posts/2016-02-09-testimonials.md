@@ -1,25 +1,27 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-02-09T04:16:58.527Z'
-dateModified: '2016-02-09T04:16:46.320Z'
+description: "Testimonials\_"
+datePublished: '2016-03-25T01:10:12.616Z'
+dateModified: '2016-03-25T01:10:11.166Z'
 title: 'Testimonials '
 author: []
+sourcePath: _posts/2016-02-09-testimonials.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-02-09-testimonials.md
-published: true
-url: testimonials/index.html
-_type: Article
+_type: Blurb
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/d00b5e08-33d7-4265-aff9-421dad2b381b.jpg)
+
 Testimonials
