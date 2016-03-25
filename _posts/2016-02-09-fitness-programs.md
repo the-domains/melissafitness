@@ -8,8 +8,8 @@ keywords: []
 description: |-
   THEN, 5 WEEKS LATER
   YOU'RE READY FOR THE BETA CYCLE:
-datePublished: '2016-03-25T03:25:22.592Z'
-dateModified: '2016-03-25T03:25:02.577Z'
+datePublished: '2016-03-25T03:36:22.116Z'
+dateModified: '2016-03-25T03:25:27.346Z'
 title: 'Fitness Programs '
 author: []
 sourcePath: _posts/2016-02-09-fitness-programs.md
