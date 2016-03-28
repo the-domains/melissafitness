@@ -8,8 +8,8 @@ keywords: []
 description: |-
   THEN, 5 WEEKS LATER
   YOU'RE READY FOR THE BETA CYCLE:
-datePublished: '2016-03-28T03:40:21.835Z'
-dateModified: '2016-03-28T03:36:57.770Z'
+datePublished: '2016-03-28T03:44:44.921Z'
+dateModified: '2016-03-28T03:43:50.909Z'
 title: FITNESS PROGRAMS
 author: []
 sourcePath: _posts/2016-02-09-fitness-programs.md
@@ -24,7 +24,7 @@ url: fitness-programs/index.html
 _type: Article
 
 ---
-Focus T25 Alpha
+Focus T25 Alpha CHALLENGE PACK
 
 YOUR TRANSFORMATION STARTS WITH THE ALPHA CYCLE. FIVE 25-MINUTE WORKOUTS TO BUILD YOUR FOUNDATION:
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f31ee5005649d8fbbafa23e8d778be080d7b093.jpg)
@@ -54,7 +54,7 @@ You'll go from vertical to horizontal and back again in this dynamic, crazy core
 UPPER FOCUS
 Shaun will help you develop the upper body of your dreams. All you have to do is FOCUS.
 
-INTRODUCING PiYo CHALLENGE PACK, a high-intensity, low-impact workout for a new kind of STRONG.
+**PiYo CHALLENGE PACK,** a high-intensity, low-impact workout for a new kind of STRONG.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a1df5e0-88d6-4b52-86a9-97c17e4e6327.jpg)
 
 Chalene Johnson took the very best Pilates- and yoga-inspired moves and cranked up the speed to give you full-throttle cardio, strength, and flexibility training---all at once. PiYo packs it ALL into each workout so you can build lean muscle mass---as you're burning crazy calories.
