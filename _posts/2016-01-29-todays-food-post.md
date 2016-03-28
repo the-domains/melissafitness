@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-03-25T03:59:24.578Z'
-dateModified: '2016-03-25T03:59:07.279Z'
+datePublished: '2016-03-28T01:22:53.263Z'
+dateModified: '2016-03-28T01:21:07.887Z'
 title: Become a Coach
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
