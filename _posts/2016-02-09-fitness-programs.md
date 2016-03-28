@@ -8,9 +8,9 @@ keywords: []
 description: |-
   THEN, 5 WEEKS LATER
   YOU'RE READY FOR THE BETA CYCLE:
-datePublished: '2016-03-25T03:39:40.058Z'
-dateModified: '2016-03-25T03:36:47.548Z'
-title: 'Fitness Programs '
+datePublished: '2016-03-28T03:19:46.851Z'
+dateModified: '2016-03-28T03:19:39.623Z'
+title: FITNESS PROGRAMS
 author: []
 sourcePath: _posts/2016-02-09-fitness-programs.md
 published: true
@@ -53,3 +53,9 @@ DYNAMIC CORE
 You'll go from vertical to horizontal and back again in this dynamic, crazy core routine.
 UPPER FOCUS
 Shaun will help you develop the upper body of your dreams. All you have to do is FOCUS.
+
+  
+Introducing PiYo, a high-intensity, low-impact workout for a new kind of STRONG.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/5a1df5e0-88d6-4b52-86a9-97c17e4e6327.jpg)
+
+Chalene Johnson took the very best Pilates- and yoga-inspired moves and cranked up the speed to give you full-throttle cardio, strength, and flexibility training---all at once. PiYo packs it ALL into each workout so you can build lean muscle mass---as you're burning crazy calories.
