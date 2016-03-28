@@ -4,7 +4,7 @@
         <description><![CDATA[Melissa Bourdages Fitness]]></description>
         <link>https://thegrid.ai/melissafitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 28 Mar 2016 01:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2016 01:18:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melissafitness/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Fitness Programs ]]></title>
@@ -20,6 +20,13 @@ YOU'RE READY FOR THE BETA CYCLE:</p><img src="https://s3-us-west-2.amazonaws.com
             <link>https://thegrid.ai/melissafitness/nespresso-time/index.html</link>
             <guid isPermaLink="false">899645f8-e380-45aa-a887-8d578eacfb67</guid>
             <pubDate>Fri, 25 Mar 2016 02:03:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>Personal Training, Women's Health and FitnessRx for Women Magazine</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ba8576cdcdaee9f4a71221b62487c16c7e8a80c8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/melissafitness/follow/index.html</link>
+            <guid isPermaLink="false">39a09ea0-2d06-409b-bd66-b47e12a6f63e</guid>
+            <pubDate>Mon, 28 Mar 2016 01:18:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Events]]></title>
@@ -70,13 +77,6 @@ Ever since I was little I was very active. I played competitive sports and loved
             <link>https://thegrid.ai/melissafitness/spinach-salad-with-quinoa-chickpeas-and-paprika-dressing/index.html</link>
             <guid isPermaLink="false">932251af-307a-493d-881e-dc5a7f5e9c3d</guid>
             <pubDate>Thu, 24 Mar 2016 03:01:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Portioning ]]></title>
-            <description><![CDATA[<article><h1>Portioning </h1><p>There are several benefits of having a good diet, such as improved mood, helps fight disease, boosts energy and helps with weight loss.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5e527e3748cc8feaf0a71db67bed6675ad88c406.jpg"></article>]]></description>
-            <link>https://thegrid.ai/melissafitness/melissa-bourdages/index.html</link>
-            <guid isPermaLink="false">8eb0afe9-26ab-49c8-acce-77d4da51cd90</guid>
-            <pubDate>Fri, 25 Mar 2016 02:20:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
