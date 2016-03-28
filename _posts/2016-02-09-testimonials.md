@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: "Testimonials\_"
-datePublished: '2016-03-28T01:19:46.826Z'
-dateModified: '2016-03-25T03:01:27.030Z'
-title: 'Testimonials '
+datePublished: '2016-03-28T01:25:43.620Z'
+dateModified: '2016-03-28T01:19:55.434Z'
+title: TESTIMONIALS
 author: []
 sourcePath: _posts/2016-02-09-testimonials.md
 published: true
