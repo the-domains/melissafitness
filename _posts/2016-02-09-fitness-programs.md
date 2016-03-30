@@ -8,8 +8,8 @@ keywords: []
 description: |-
   THEN, 5 WEEKS LATER
   YOU'RE READY FOR THE BETA CYCLE:
-datePublished: '2016-03-28T03:44:44.921Z'
-dateModified: '2016-03-28T03:43:50.909Z'
+datePublished: '2016-03-30T03:55:31.815Z'
+dateModified: '2016-03-30T03:54:10.768Z'
 title: FITNESS PROGRAMS
 author: []
 sourcePath: _posts/2016-02-09-fitness-programs.md
@@ -27,7 +27,7 @@ _type: Article
 Focus T25 Alpha CHALLENGE PACK
 
 YOUR TRANSFORMATION STARTS WITH THE ALPHA CYCLE. FIVE 25-MINUTE WORKOUTS TO BUILD YOUR FOUNDATION:
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/9f31ee5005649d8fbbafa23e8d778be080d7b093.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/5be8b14b0fd6d0b3a42d6a97de565735665bc7f2.jpg)
 
 CARDIO
 25 minutes of calorie-burning, sweat-drenching cardio.
