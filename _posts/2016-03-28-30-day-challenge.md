@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'and sign up today so I can be your coach!'
-datePublished: '2016-03-28T03:46:56.389Z'
-dateModified: '2016-03-28T03:45:53.697Z'
+datePublished: '2016-03-30T04:00:14.322Z'
+dateModified: '2016-03-30T03:59:59.530Z'
 title: 30 Day Challenge
 author: []
 sourcePath: _posts/2016-03-28-30-day-challenge.md
@@ -34,9 +34,7 @@ The Beachbody challenge is a comprehensive health and fitness solution---offerin
 
 Get FREE one-on-one coaching.
 
-[CLICK HERE][0]
+Email me at Melissabourdages
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a299d1f-131a-4e19-a094-01b26d7a166c.jpg)
 
-Fitness + Nutrition + Support + Rewards= Success. 
-
-[0]: https://www.teambeachbody.com/en_CA/tbbsignup/-/tbbsignup/free?referringRepId=307761
+Fitness + Nutrition + Support + Rewards= Success.
