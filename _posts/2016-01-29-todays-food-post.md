@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: CLICK HERE
-datePublished: '2016-04-05T04:11:50.945Z'
-dateModified: '2016-03-28T03:41:46.843Z'
+description: 'In January 2014, I hosted my first fitness challenge. I was still new to the whole coaching idea and was scared to really talk to anyone about it so I found a whole bunch of people that already owned the program, Focus T25 and were looking for a coach.'
+datePublished: '2016-04-05T04:12:45.577Z'
+dateModified: '2016-04-05T04:11:59.229Z'
 title: BECOME A COACH
 author: []
 sourcePath: _posts/2016-01-29-todays-food-post.md
