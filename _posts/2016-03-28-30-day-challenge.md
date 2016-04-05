@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'and sign up today so I can be your coach!'
-datePublished: '2016-03-30T04:00:14.322Z'
-dateModified: '2016-03-30T03:59:59.530Z'
+datePublished: '2016-04-05T04:08:55.641Z'
+dateModified: '2016-03-30T04:00:21.929Z'
 title: 30 Day Challenge
 author: []
 sourcePath: _posts/2016-03-28-30-day-challenge.md
