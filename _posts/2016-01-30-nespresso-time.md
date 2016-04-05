@@ -5,10 +5,10 @@ inNav: false
 inLanguage: null
 starred: true
 keywords: []
-description: "Click for a free meal plan\_"
-datePublished: '2016-03-25T02:03:31.346Z'
-dateModified: '2016-03-25T02:03:17.918Z'
-title: Free Meal Prep
+description: Connect with me via email to receive your free meal prep .
+datePublished: '2016-04-05T04:08:03.259Z'
+dateModified: '2016-04-05T04:07:12.271Z'
+title: Meal Prep
 author: []
 sourcePath: _posts/2016-01-30-nespresso-time.md
 published: true
@@ -22,4 +22,4 @@ url: nespresso-time/index.html
 _type: Article
 
 ---
-Click for a free meal plan ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4894c686fee00aca2300e52c2dae2d12dfcf9d36.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/4894c686fee00aca2300e52c2dae2d12dfcf9d36.jpg)
