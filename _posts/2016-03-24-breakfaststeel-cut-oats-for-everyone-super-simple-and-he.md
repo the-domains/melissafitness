@@ -3,7 +3,7 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: >-
   Breakfast...steel cut oats for everyone. Super simple and healthy! I make one
@@ -18,8 +18,8 @@ description: >-
 
 
   Charlie has an awesome appetite!! #babyfood #babyfoodideas
-datePublished: '2016-04-05T04:11:00.040Z'
-dateModified: '2016-04-05T04:10:35.743Z'
+datePublished: '2016-04-06T02:20:04.984Z'
+dateModified: '2016-04-05T04:14:59.919Z'
 title: 'Breakfast...steel cut oats for everyone. '
 author: []
 sourcePath: _posts/2016-03-24-breakfaststeel-cut-oats-for-everyone-super-simple-and-he.md
