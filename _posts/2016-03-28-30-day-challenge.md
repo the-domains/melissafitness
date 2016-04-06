@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: 'and sign up today so I can be your coach!'
-datePublished: '2016-04-06T02:20:04.793Z'
-dateModified: '2016-04-05T04:08:59.171Z'
+datePublished: '2016-04-06T02:44:15.082Z'
+dateModified: '2016-04-06T02:43:14.433Z'
 title: 30 Day Challenge
 author: []
 sourcePath: _posts/2016-03-28-30-day-challenge.md
@@ -19,9 +19,11 @@ publisher:
   url: null
   favicon: null
 url: 30-day-challenge/index.html
-_type: Article
+_type: WebPage
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a299d1f-131a-4e19-a094-01b26d7a166c.jpg)
+
 ### Join the Challenge
 
 and sign up today so I can be your coach!
@@ -35,6 +37,5 @@ The Beachbody challenge is a comprehensive health and fitness solution---offerin
 Get FREE one-on-one coaching.
 
 Email me at Melissabourdages
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a299d1f-131a-4e19-a094-01b26d7a166c.jpg)
 
 Fitness + Nutrition + Support + Rewards= Success.
