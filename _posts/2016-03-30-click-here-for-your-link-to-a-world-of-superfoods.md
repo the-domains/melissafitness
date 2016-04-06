@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: 30-Day-Supply Bag
-datePublished: '2016-04-06T02:18:05.747Z'
-dateModified: '2016-04-05T03:32:43.083Z'
+datePublished: '2016-04-06T02:38:55.970Z'
+dateModified: '2016-04-06T02:38:36.328Z'
 title: Click Here For Your Link To A World of Superfoods
 author: []
 sourcePath: _posts/2016-03-30-click-here-for-your-link-to-a-world-of-superfoods.md
