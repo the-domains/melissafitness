@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: true
+starred: false
 keywords: []
 description: "From Power Greens in my morning superfood smoothie to a bowl full of greens with my dinner...I'm loading up \uD83D\uDCAA\uD83C\uDFFB The kitchen is where it happens everyone!!! Weight loss, gains...FOOD IS FUEL!!!! Not sure what to eat or how much to eat...ask me...and I can share with you my meal plan and those cute little containers y'all see me post!"
-datePublished: '2016-04-06T02:57:10.279Z'
-dateModified: '2016-04-06T02:47:02.830Z'
+datePublished: '2016-04-06T03:25:25.125Z'
+dateModified: '2016-04-06T03:25:04.042Z'
 title: 'Salad, Beets & Bean'
 author: []
 sourcePath: _posts/2016-02-08-salad-time.md
