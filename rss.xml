@@ -4,8 +4,15 @@
         <description><![CDATA[Melissa Bourdages Fitness]]></description>
         <link>https://thegrid.ai/melissafitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Apr 2016 02:21:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2016 02:21:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melissafitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Get Healthy & Fit]]></title>
+            <description><![CDATA[<article><h1>Get Healthy & Fit</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3adc72379026507a3779128c4438edf5efbcd758.jpg"></article>]]></description>
+            <link>https://thegrid.ai/melissafitness/7e2ba233-1c50-4270-8ddd-28b6b7642a45/index.html</link>
+            <guid isPermaLink="false">7e2ba233-1c50-4270-8ddd-28b6b7642a45</guid>
+            <pubDate>Wed, 06 Apr 2016 02:21:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Breakfast...steel cut oats for everyone. ]]></title>
             <description><![CDATA[<article><h1>Breakfast...steel cut oats for everyone. </h1><p>Breakfast...steel cut oats for everyone. Super simple and healthy! I make one big batch, purée about 1/3 for Charlie and keep 2/3 for me. We then have prepped oatmeal for the week.
@@ -73,14 +80,6 @@ YOU'RE READY FOR THE BETA CYCLE:</p></article>]]></description>
             <link>https://thegrid.ai/melissafitness/summit-2014-vegas/index.html</link>
             <guid isPermaLink="false">8ea9ee84-b9b9-4482-a11f-3a8fe939bb5b</guid>
             <pubDate>Tue, 05 Apr 2016 04:03:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[My Story]]></title>
-            <description><![CDATA[<article><h1>My Story</h1><p>My Story
-Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b358b71485c0e65c084c3992091dfd5177333ae.jpg"></article>]]></description>
-            <link>https://thegrid.ai/melissafitness/17161c58-59a8-4ab4-b408-ae9e92286e47/index.html</link>
-            <guid isPermaLink="false">17161c58-59a8-4ab4-b408-ae9e92286e47</guid>
-            <pubDate>Fri, 25 Mar 2016 03:20:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
