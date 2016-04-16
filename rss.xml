@@ -4,8 +4,16 @@
         <description><![CDATA[Melissa Bourdages Fitness]]></description>
         <link>https://thegrid.ai/melissafitness/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Apr 2016 04:31:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 16 Apr 2016 04:32:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/melissafitness/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[My Story]]></title>
+            <description><![CDATA[<article><h1>My Story</h1><p>My Story
+Ever since I was little I was very active. I played competitive sports and loved being part of a team. When I graduated from University I got an office job. My fitness levels started to decline and my stress levels continued to elevate. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b358b71485c0e65c084c3992091dfd5177333ae.jpg"></article>]]></description>
+            <link>https://thegrid.ai/melissafitness/17161c58-59a8-4ab4-b408-ae9e92286e47/index.html</link>
+            <guid isPermaLink="false">17161c58-59a8-4ab4-b408-ae9e92286e47</guid>
+            <pubDate>Sat, 16 Apr 2016 04:32:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[BECOME A COACH]]></title>
             <description><![CDATA[<article><h1>BECOME A COACH</h1><p>In January 2014, I hosted my first fitness challenge. I was still new to the whole coaching idea and was scared to really talk to anyone about it so I found a whole bunch of people that already owned the program, Focus T25 and were looking for a coach.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de58bab91cba1ab04d486bf02ad09f726f8ecf54.jpg"></article>]]></description>
@@ -69,13 +77,6 @@ YOU'RE READY FOR THE BETA CYCLE:</p></article>]]></description>
             <link>https://thegrid.ai/melissafitness/summit-2014-vegas/index.html</link>
             <guid isPermaLink="false">8ea9ee84-b9b9-4482-a11f-3a8fe939bb5b</guid>
             <pubDate>Sun, 10 Apr 2016 02:06:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[FOOD]]></title>
-            <description><![CDATA[<h1>FOOD</h1>]]></description>
-            <link>https://thegrid.ai/melissafitness/food/index.html</link>
-            <guid isPermaLink="false">887ed7d0-1542-4595-9669-3da72e9538cf</guid>
-            <pubDate>Wed, 06 Apr 2016 02:57:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
