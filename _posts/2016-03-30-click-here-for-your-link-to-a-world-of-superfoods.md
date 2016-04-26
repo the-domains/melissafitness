@@ -1,13 +1,13 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
 starred: true
 keywords: []
 description: 30-Day-Supply Bag
-datePublished: '2016-04-09T23:18:55.109Z'
-dateModified: '2016-04-09T23:18:53.197Z'
+datePublished: '2016-04-26T00:49:36.204Z'
+dateModified: '2016-04-16T04:28:56.370Z'
 title: Click Here For Your Link To A World of Superfoods
 author: []
 sourcePath: _posts/2016-03-30-click-here-for-your-link-to-a-world-of-superfoods.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: click-here-for-your-link-to-a-world-of-superfoods/index.html
-_type: MediaObject
+_type: Article
 
 ---
 ## Choose Your Supply
