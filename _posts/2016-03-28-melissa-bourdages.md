@@ -17,8 +17,8 @@ keywords:
   - carbs
   - improved
 description: 'I also got to work out live with professional trainers and thousands of coaches. It was so cool! I was completely overtaken by emotion when I got to work out with Shaun T, doing Focus T25...the program that changed it all for me. To this day, it remains my favourite program...and he is my favourite trainer.'
-datePublished: '2016-04-06T02:57:09.779Z'
-dateModified: '2016-04-06T02:45:40.551Z'
+datePublished: '2016-04-26T00:49:36.371Z'
+dateModified: '2016-04-16T04:30:19.040Z'
 author:
   - name: Melissa Bourdages
     url: 'https://plus.google.com/101511923753713644481'
