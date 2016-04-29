@@ -5,22 +5,25 @@ author:
     avatar: {}
 related: []
 publisher:
-  url: 'http://www.facebook.com'
   name: Facebook
-  favicon: 'https://m.facebook.com/favicon.ico'
   domain: m.facebook.com
+  url: 'http://www.facebook.com'
+  favicon: 'https://m.facebook.com/favicon.ico'
 keywords: []
 description: "Just finished my workout and my little man is HANGRY!!! Instead of skipping out on breakfast/post workout fuel, with Charlie in one arm I whipped together a chocolate, banana and peanut butter shake in the other\uD83D\uDC4C\uD83C\uDFFB Busy Mom...getting it done \uD83D\uDC4A\uD83C\uDFFB"
 app_links: []
 isBasedOnUrl: 'https://m.facebook.com/melissabourdagesfitness/photos/pb.253713044776191.-2207520000.1460606616./543477729133053/?type=3&source=42'
 title: Just finished my workout and my little man is ...
-datePublished: '2016-04-14T04:10:29.711Z'
-dateModified: '2016-04-14T04:04:45.619Z'
+datePublished: '2016-04-29T03:22:07.462Z'
+dateModified: '2016-04-29T03:19:51.857Z'
 sourcePath: _posts/2016-04-14-just-finished-my-workout-and-my-little-man-is-.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+inLanguage: null
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
