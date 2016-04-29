@@ -3,12 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'and sign up today so I can be your coach!'
-datePublished: '2016-04-06T02:44:15.082Z'
-dateModified: '2016-04-06T02:43:14.433Z'
-title: 30 Day Challenge
+datePublished: '2016-04-29T03:22:07.556Z'
+dateModified: '2016-04-29T03:20:05.249Z'
+title: Join the Challenge
 author: []
 sourcePath: _posts/2016-03-28-30-day-challenge.md
 published: true
@@ -18,6 +17,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: 30-day-challenge/index.html
 _type: WebPage
 
