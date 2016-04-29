@@ -3,13 +3,14 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: true
 keywords: []
-description: Connect with me via email to receive your free meal prep .
-datePublished: '2016-04-06T02:20:50.129Z'
-dateModified: '2016-04-05T04:08:09.968Z'
-title: Meal Prep
-author: []
+description: ''
+datePublished: '2016-04-29T03:22:07.522Z'
+dateModified: '2016-04-29T03:20:16.863Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-01-30-nespresso-time.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: false
 url: nespresso-time/index.html
 _type: Article
 
