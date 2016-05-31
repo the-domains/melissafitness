@@ -1,8 +1,35 @@
-name: 'Melissa Bourdages '
-favicon: null
-layout_spectrum: 0.156760613899678
 typography_spectrum: 0.02374
-title: 'FITNESS + HEALTH + NUTRITION '
+color:
+  brandColors:
+    - '#F2385A'
+    - '#F5A503'
+    - '#E9F1DF'
+    - '#4AD9D9'
+    - '#36B1BF'
+  brandStrength: 0.2719224200118333
+  lightness: 0.6096631528344005
+  saturation: 0.058138993103057146
+  rhythmicContrast: 0.3595629020128399
+opengraph:
+  image: null
+  type: ''
+  appId: null
+layout_spectrum: 0.156760613899678
+analytics:
+  google: UA-72563501-1
+  facebook: null
+  twitter: null
+author:
+  email: MelissaBourdages4fitness@gmail.com
+  url: ''
+  name: Melissa Bourdages
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6198efb-5107-4bdc-8054-8d4a30c676e5.png'
+name: 'Melissa Bourdages '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/c21bdb14-dc1b-48bf-b1e1-c3c44f139dd1.jpg'
 collections:
   - index:
       path: /
@@ -15,27 +42,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-72563501-1
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#F2385A'
-    - '#F5A503'
-    - '#E9F1DF'
-    - '#4AD9D9'
-    - '#36B1BF'
-  brandStrength: 0.2719224200118333
-  lightness: 0.6096631528344005
-  saturation: 0.058138993103057146
-  rhythmicContrast: 0.3595629020128399
+title: 'FITNESS + HEALTH + NUTRITION '
 purpose: []
