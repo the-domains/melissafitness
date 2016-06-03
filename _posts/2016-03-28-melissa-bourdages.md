@@ -4,7 +4,6 @@ hasPage: false
 inNav: false
 isBasedOnUrl: 'http://www.melissabourdages.com/'
 inLanguage: en
-starred: true
 keywords:
   - healthy
   - workout
@@ -17,23 +16,23 @@ keywords:
   - carbs
   - improved
 description: 'I also got to work out live with professional trainers and thousands of coaches. It was so cool! I was completely overtaken by emotion when I got to work out with Shaun T, doing Focus T25...the program that changed it all for me. To this day, it remains my favourite program...and he is my favourite trainer.'
-datePublished: '2016-04-26T00:49:36.371Z'
-dateModified: '2016-04-16T04:30:19.040Z'
+datePublished: '2016-06-03T02:35:53.283Z'
+dateModified: '2016-06-03T02:35:52.964Z'
 author:
-  - name: Melissa Bourdages
-    url: 'https://plus.google.com/101511923753713644481'
+  - name: Facebook
+    url: 'https://www.facebook.com/melissabourdagesfitness/'
     avatar: {}
 related: []
 app_links: []
 title: Melissa Bourdages
 sourcePath: _posts/2016-03-28-melissa-bourdages.md
-published: true
 authors: []
 publisher:
   name: Melissabourdages
   domain: www.melissabourdages.com
   url: 'http://www.melissabourdages.com'
   favicon: 'http://www.melissabourdages.com/favicon.ico'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
