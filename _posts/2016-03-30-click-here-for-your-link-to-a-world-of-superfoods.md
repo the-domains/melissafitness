@@ -1,23 +1,21 @@
 ---
-inFeed: true
-hasPage: true
-inNav: false
-inLanguage: null
-starred: true
-keywords: []
-description: 30-Day-Supply Bag
-datePublished: '2016-04-26T00:49:36.204Z'
-dateModified: '2016-04-16T04:28:56.370Z'
-title: Click Here For Your Link To A World of Superfoods
-author: []
+datePublished: '2016-08-18T01:39:10.125Z'
 sourcePath: _posts/2016-03-30-click-here-for-your-link-to-a-world-of-superfoods.md
-published: true
+inFeed: true
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+hasPage: true
+keywords: []
+author:
+  - name: FITNESS PROGRAMS
+    url: 'https://thegrid.ai/melissafitness/fitness-programs/'
+via: {}
+dateModified: '2016-08-18T01:39:09.859Z'
+title: Choose Your Supply
+publisher: {}
+description: 30-Day-Supply Bag
+inLanguage: null
+inNav: false
+starred: true
 url: click-here-for-your-link-to-a-world-of-superfoods/index.html
 _type: Article
 
@@ -31,8 +29,6 @@ All Shakeology flavours are available in an economical bag containing a 30-day s
 
 Monthly alternating 30-serving bags of Chocolate and Vanilla Shakeology(r)
 
-**[Click here][0]**
-
-For you link to buy a challenge pack that we have picked out for you. 
+**[Click here][0]** to help support healthy energy, reduce cravings, lose weight, and feel great. 
 
 [0]: http://teambeachbody.com/shop/-/shopping/MDSUSH311G?referringRepId=307761
