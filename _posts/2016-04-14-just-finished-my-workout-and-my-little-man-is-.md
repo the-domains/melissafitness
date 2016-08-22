@@ -1,31 +1,34 @@
 ---
+datePublished: '2016-08-21T22:37:54.750Z'
+sourcePath: _posts/2016-04-14-just-finished-my-workout-and-my-little-man-is-.md
+inFeed: true
+isBasedOnUrl: >-
+  https://m.facebook.com/melissabourdagesfitness/photos/pb.253713044776191.-2207520000.1460606616./543477729133053/?type=3&source=42
+authors: []
+hasPage: false
+keywords: []
+related: []
 author:
   - name: Melissa Bourdages Fitness
     url: 'http://facebook.com/253713044776191'
     avatar: {}
-related: []
-publisher:
-  name: Facebook
-  domain: m.facebook.com
-  url: 'http://www.facebook.com'
-  favicon: 'https://m.facebook.com/favicon.ico'
-keywords: []
-description: "Just finished my workout and my little man is HANGRY!!! Instead of skipping out on breakfast/post workout fuel, with Charlie in one arm I whipped together a chocolate, banana and peanut butter shake in the other\uD83D\uDC4C\uD83C\uDFFB Busy Mom...getting it done \uD83D\uDC4A\uD83C\uDFFB"
+via: {}
+dateModified: '2016-08-21T22:37:54.419Z'
+title: 'Chocolate, banana and peanut butter shake'
 app_links: []
-isBasedOnUrl: 'https://m.facebook.com/melissabourdagesfitness/photos/pb.253713044776191.-2207520000.1460606616./543477729133053/?type=3&source=42'
-title: Just finished my workout and my little man is ...
-datePublished: '2016-04-29T03:22:07.462Z'
-dateModified: '2016-04-29T03:19:51.857Z'
-sourcePath: _posts/2016-04-14-just-finished-my-workout-and-my-little-man-is-.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+publisher:
+  url: 'https://www.facebook.com/melissabourdagesfitness/'
+  name: Facebook
+  favicon: 'https://m.facebook.com/favicon.ico'
+  domain: m.facebook.com
+description: "Just finished my workout and my little man is HANGRY!!! Instead of skipping out on breakfast/post workout fuel, with Charlie in one arm I whipped together a chocolate, banana and peanut butter shake in the other\uD83D\uDC4C\uD83C\uDFFB Busy Mom...getting it done \uD83D\uDC4A\uD83C\uDFFB"
 inLanguage: null
-authors: []
+inNav: false
 starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Just finished my workout and my little man is ...</h1><p>Just finished my workout and my little man is HANGRY!!! Instead of skipping out on breakfast/post workout fuel, with Charlie in one arm I whipped together a chocolate, banana and peanut butter shake in the other Busy Mom...getting it done </p><img src="https://scontent.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/p720x720/12208365_543477729133053_6294556997636199581_n.jpg?oh=178bacad006a8bfac3f3ad2250fbfa36&amp;oe=57B69BC4" /></article>
+<article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/107009ec71a439ff131dc5ac39a2b5c9af8c2e69.jpg" /><h1>Chocolate, banana and peanut butter shake</h1><p>Never skip out!</p></article>
+
+Just finished my workout and my little man is HANGRY!!! Instead of skipping out on breakfast/post workout fuel, with Charlie in one arm I whipped together a chocolate, banana and peanut butter shake in the other👌🏻 Busy Mom...getting it done 👊🏻
